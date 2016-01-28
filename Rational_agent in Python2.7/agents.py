@@ -1,5 +1,6 @@
 '''
 The agent base class as well as a baseline agent.
+
 '''
 
 from abc import abstractmethod
