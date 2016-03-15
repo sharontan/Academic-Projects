@@ -1,4 +1,4 @@
-## Ranking II
+## Ranked Searches Based on Relevance
 
 In this assignment, you will implement three different ranking functions and four different evaluation functions.  
 
